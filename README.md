@@ -1,4 +1,4 @@
-<h5 align="left">Hi Devs👋,<br>I am Haris a Software Dev<br>I have a experience of 3-4years in Full-Stack Development<br>Exploring Web3 technologies and Generative AI<br>For any queries mail me at 📧 harisimran7857@gmail.com</h5>
+<h5 align="left">Hi Devs👋</h5>
 
 ###
 
